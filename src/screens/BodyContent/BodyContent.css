@@ -1,0 +1,41 @@
+.service-container {
+  padding: 3% 3%;
+}
+
+.service-title {
+  font-size: 27px;
+  font-weight: 600;
+  color: #6b3cc9;
+  line-height: 33px;
+}
+
+.service-description {
+  font-size: 16px;
+  font-weight: 400;
+  padding: 20px 0px 20px 0px;
+}
+
+.learn-more-button {
+  /* text-align: left; */
+  background: #f28d35;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 5px;
+  text-transform: uppercase;
+  padding: 12px 20px;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.learn-more-button:hover {
+  background: #d9792e; /* Slightly darker shade for hover */
+}
+
+/* Media query for small screens (sm) */
+@media (max-width: 767px) {
+  .learn-more-button {
+    /* Center alignment for small screens */
+    text-align: center;
+  }
+}

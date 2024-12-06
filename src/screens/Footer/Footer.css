@@ -1,0 +1,38 @@
+.footer {
+  background-color: #6b3cc9;
+  color: #ffffff;
+}
+
+.footer-text {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.technologies-title {
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.services-title {
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.footer-list li {
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer; /* Change cursor to pointer */
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.footer-list li:hover {
+  color: #b39ddb; /* Match hover color with the background */
+}
+
+.footer-hr {
+  width: 70%;
+  color: #ffffff;
+  background-color: #ffffff;
+  height: 2px;
+}
