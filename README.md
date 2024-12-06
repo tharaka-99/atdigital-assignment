@@ -16,6 +16,6 @@ This repository contains the code for a responsive landing page developed as par
 
 ## Links
 
-- **Netlify Deployment**: [Insert Netlify URL here]
+- **Netlify Deployment**: [https://subatdigital-assignment.netlify.app/]
 
 ---
